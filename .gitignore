@@ -1,0 +1,12 @@
+/nio
+/nio.exe
+/nio-data.json
+/nio-data.json.*
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+config.local.*
+*.log
+.DS_Store
